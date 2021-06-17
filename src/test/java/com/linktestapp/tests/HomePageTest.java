@@ -39,7 +39,7 @@ public class HomePageTest extends TestBase{
 		System.out.println("Total time taken to check the URLs - "+ totaltimetaken+ " seconds");
 	}
 	
-	@Test(priority = 2)
+	@Test(enabled = false)
 	public void moveToFeatures() {
 		fpage = hmpg.clickFeatureLink();
 		System.out.println("Features is clicked");
