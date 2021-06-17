@@ -1,3 +1,9 @@
 Hi,
 
-in this application I check fro
+in this application I use POM and have a Utility class where main programming is done for checking the URL is broken or not.
+
+Through POM whatever page we want to test, just need to call the Utility.checkingURL().
+
+Output will be written in console now.
+Happy Coding
+Thank you 
