@@ -27,7 +27,7 @@ public class HomePageTest extends TestBase{
 	public void testAllLinks() {
 		
 		List<WebElement> list = driver.findElements(By.tagName("a"));
-		System.out.println(list.size());
+		System.out.println("Links - "+list.size());
 		long entrytime = System.currentTimeMillis();
 		Utility.checkingURL(list);
 		long completetime = System.currentTimeMillis();
