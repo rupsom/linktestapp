@@ -32,7 +32,7 @@ public class HomePageTest extends TestBase{
 		Utility.checkingURL(list);
 		long completetime = System.currentTimeMillis();
 		long totaltimetaken = (completetime - entrytime)/1000;
-		System.out.println("Total time taken to check the URLs - "+ totaltimetaken+ " seconds");
+		System.out.println("Total time taken to check all the URLs - "+ totaltimetaken+ " seconds");
 	}
 	
 	@Test(priority = 2, enabled = false)
