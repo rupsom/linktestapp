@@ -1,18 +1,14 @@
 package com.linktestapp.tests;
 
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.util.Iterator;
 import java.util.List;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import com.linktestapp.pages.FeaturesPage;
 import com.linktestapp.pages.HomePage;
-import com.linktestapp.testbase.FeaturesPage;
 import com.linktestapp.testbase.TestBase;
 import com.linktestapp.utility.Utility;
 

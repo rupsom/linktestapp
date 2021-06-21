@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="518250" started-at="2021-06-17T18:30:43 IST" finished-at="2021-06-17T18:39:22 IST">
+  <suite name="Suite" duration-ms="543807" started-at="2021-06-17T20:33:43 IST" finished-at="2021-06-17T20:42:47 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="518250" started-at="2021-06-17T18:30:43 IST" finished-at="2021-06-17T18:39:22 IST">
+    <test name="Test" duration-ms="543807" started-at="2021-06-17T20:33:43 IST" finished-at="2021-06-17T20:42:47 IST">
       <class name="com.linktestapp.tests.HomePageTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.linktestapp.tests.HomePageTest@528931cf]" name="setup" is-config="true" duration-ms="19548" started-at="2021-06-17T18:30:43 IST" finished-at="2021-06-17T18:31:03 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.linktestapp.tests.HomePageTest@528931cf]" name="setup" is-config="true" duration-ms="32240" started-at="2021-06-17T20:33:43 IST" finished-at="2021-06-17T20:34:15 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testAllLinks()[pri:1, instance:com.linktestapp.tests.HomePageTest@528931cf]" name="testAllLinks" duration-ms="497513" started-at="2021-06-17T18:31:03 IST" finished-at="2021-06-17T18:39:20 IST">
+        <test-method status="PASS" signature="testAllLinks()[pri:1, instance:com.linktestapp.tests.HomePageTest@528931cf]" name="testAllLinks" duration-ms="510358" started-at="2021-06-17T20:34:15 IST" finished-at="2021-06-17T20:42:46 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAllLinks -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.linktestapp.tests.HomePageTest@528931cf]" name="tearDown" is-config="true" duration-ms="1116" started-at="2021-06-17T18:39:20 IST" finished-at="2021-06-17T18:39:22 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.linktestapp.tests.HomePageTest@528931cf]" name="tearDown" is-config="true" duration-ms="1051" started-at="2021-06-17T20:42:46 IST" finished-at="2021-06-17T20:42:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

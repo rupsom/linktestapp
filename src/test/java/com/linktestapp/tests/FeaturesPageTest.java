@@ -2,8 +2,8 @@ package com.linktestapp.tests;
 
 import org.testng.annotations.BeforeTest;
 
+import com.linktestapp.pages.FeaturesPage;
 import com.linktestapp.pages.HomePage;
-import com.linktestapp.testbase.FeaturesPage;
 import com.linktestapp.testbase.TestBase;
 
 public class FeaturesPageTest extends TestBase{

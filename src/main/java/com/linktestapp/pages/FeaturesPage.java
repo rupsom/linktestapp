@@ -1,8 +1,10 @@
-package com.linktestapp.testbase;
+package com.linktestapp.pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+
+import com.linktestapp.testbase.TestBase;
 
 public class FeaturesPage extends TestBase{
 
