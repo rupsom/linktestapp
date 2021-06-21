@@ -25,7 +25,7 @@ public class HomePageTest extends TestBase{
 	
 	@Test(priority = 1)
 	public void testAllLinks() {
-		
+		// All links are workable check
 		List<WebElement> list = driver.findElements(By.tagName("a"));
 		System.out.println(list.size());
 		long entrytime = System.currentTimeMillis();
